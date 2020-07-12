@@ -1,1 +1,5 @@
-Through many years in the software business, I've done kernel and back end development, training, standards, consulting, authoring, managing and more.
+Through many years in the software business, I've done kernel and back end development,
+training, standards, consulting, authoring, people and project managing and more.
+
+I'm currently working on the `SCons project <https://github.com/SCons/scons>`_, 
+if you want to see some of my recent Python work.
